@@ -1,1 +1,2 @@
 # Struts2PDFDownload
+There are many ways you can generate PDF report in java. Here you will see easiest way to generate PDF report. To create PDF we have used itextpdf API for java and attached generated report in response to the user so that he can view/download PDF file locally
